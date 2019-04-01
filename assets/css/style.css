@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    background-image: url("../images/dust_scratches.png");
+  }
+
+  p {
+    line-height: 1.4;
+  }
+
+  .navbar {
+    margin: auto;
+    top: 0;
+    background: #ffffff;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #cccccc;
+  }
+
+  #divider1 {
+    color: #cccccc;
+    padding: 20px 0 20px 20px;
+    margin: 0;
+    position: relative;
+  }
+
+  .nav-link {
+    display: block;
+    color: #777777;
+    padding: 20px 20px 20px 20px;
+    margin: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+  }
+
+  .navbar {
+    list-style-type: none;
+    margin: 0 0 40px 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .navbarbrand {
+    display: block;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    position: relative;
+  }
+
+  .text {
+    display: block;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 5px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    bottom: 70px;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: auto;
+  }
+
+  .box {
+    padding: 30px;
+    border: 1px solid #cccccc;
+    position: relative;
+    background: #ffffff;
+    margin-bottom: 90px;
+  }
+
+  .box2 {
+    padding: 40px;
+    border: 1px solid #cccccc;
+    position: relative;
+    background: #ffffff;
+    margin-bottom: 90px;
+  }
+
+  .box3 {
+    padding: 40px;
+    border: 1px solid #cccccc;
+    position: relative;
+    background: #ffffff;
+    margin-bottom: 90px;
+  }
+
+  .about {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 0 30px 0;
+    position: relative;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 15px;
+  }
+
+  #line {
+    position: relative;
+    width: 875px;
+    margin: 0;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #cccccc;
+    margin-bottom: 30px;
+  }
+
+  #about-me p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 16px;
+    color: #777777;
+    line-height: 20px;
+  }
+
+  .photo {
+    float: left;
+    margin: 0px 30px 30px 0px;
+    position: relative;
+    width: 200px;
+    height: 175px;
+  }
+
+  footer {
+    position: fixed;
+    height: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    border-top-style: solid;
+    border-width: 10px;
+    border-color: #4aaaa5;
+    padding: 10px 0;
+  }
+
+  footer p {
+    color: #cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7em;
+    margin: 0;
+  }
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+  }
+  
+  .btn {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .container2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 16px;
+    color: #777777;
+  
+  }
+
